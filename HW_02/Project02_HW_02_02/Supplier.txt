@@ -1,0 +1,3 @@
+601;Bakkal Mehmet;8000.0
+603;Manav;7750.0
+604;Elektrikçi;10250.0
